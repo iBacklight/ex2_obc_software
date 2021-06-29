@@ -7,10 +7,11 @@
 	<deviceEndianness value="be32"/>
 	<codegenToolVersion value="20.2.0.LTS"/>
 	<isElfFormat value="true"/>
-	<connection value="common/targetdb/connections/TIXDS100v2_Connection.xml"/>
+	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
 	<rts value="libc.a"/>
 	<createSlaveProjects value=""/>
 	<templateProperties value="id=com.ti.common.project.core.emptyProjectTemplate"/>
 	<filesToOpen value=""/>
 	<isTargetManual value="false"/>
+	<origin value="/home/robert/Documents/AbSat/ex2_obc_software"/>
 </projectOptions>
